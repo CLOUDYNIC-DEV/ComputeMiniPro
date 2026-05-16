@@ -38,4 +38,6 @@ The carrier board is engineered to unlock the full potential of the **RK3588S / 
 | **Form Factor** | Ultra compact / Handheld |
 | **Layer Count** | 4 Layers (High Speed Routing) |
 
+## Files of PCB
+*  **Full Gerber and PAD zip files are uploaded in this repo. All hardware files are completely open source!**
 ---
