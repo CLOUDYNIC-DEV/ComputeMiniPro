@@ -3,7 +3,7 @@
 The **Compute Mini Pro** is an ultra compact, high performance carrier board designed specifically for the **Rockchip RK3588 CM5 module**. Built for engineers who need **6 TOPS of NPU power** in their pocket, this board breaks the tradition of bulky development kits by packing industrial grade I/O into a handheld form factor. Unlike other massive I/O boards this is the best choice if you need the AI Computing power in your pocket. 
 
 > **Engineer's Note:** 
-> *This entire 4-layer high speed board was routed and finalized on an aging Inspiron N5010. It’s proof that grit and clean routing beat high-end workstations every time.*
+> *This entire 4-layer high speed board was routed and finalized on an aging Inspiron N5010. It’s proof that grit and clean routing beat high end workstations every time.*
 
 ---
 
