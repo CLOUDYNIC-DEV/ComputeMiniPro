@@ -19,7 +19,7 @@ The carrier board is engineered to unlock the full potential of the **RK3588S / 
 
 ### High-Speed I/O & Connectivity
 *   **1x HDMI 2.1:** Supports up to **8K @ 60fps** output.
-*   **1x USB 3.1 Type-C:** High-speed data and integrated **Power Delivery (PD)**.
+*   **1x USB 3.1 Type-C:** High speed data and integrated **Power Delivery (PD)**.
 *   **1x Ethernet Port:** Equipped with the fastest transceiver for **ultra-low latency** networking.
 
 ### Storage & Power
