@@ -6,6 +6,8 @@ The **Compute Mini Pro** is an ultra compact, high performance carrier board des
 > *This entire 4-layer high speed board was routed and finalized on an aging Inspiron N5010. It’s proof that grit and clean routing beat high end workstations every time.*
 
 ---
+## Files of PCB
+*  **Full Gerber and PAD zip files are uploaded in this repo. All hardware files are completely open source!**
 
 ## Hardware Specifications
 
@@ -37,7 +39,4 @@ The carrier board is engineered to unlock the full potential of the **RK3588S / 
 | **Max Resolution** | 8K @ 60fps |
 | **Form Factor** | Ultra compact / Handheld |
 | **Layer Count** | 4 Layers (High Speed Routing) |
-
-## Files of PCB
-*  **Full Gerber and PAD zip files are uploaded in this repo. All hardware files are completely open source!**
 ---
